@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
-int main()
+void main()
 {
     int i,ax[20],ay[20],n,j;
     float nr,dr,x,y;
@@ -30,6 +30,5 @@ int main()
     }
     cout<<"Value of x: "<<x<<endl<<"Value of y: "<<y;
     getch();
-    return 0;
 }
     
